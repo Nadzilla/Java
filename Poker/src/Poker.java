@@ -1,7 +1,6 @@
 /**
  * Rutgers, The State University of New Jersey
   * Introduction to Computer Science Milestone 2 Driver
-  * Joseph A. Boyle (joseph.a.boyle@rutgers.edu)
   * November 30, 2017
   */
 
