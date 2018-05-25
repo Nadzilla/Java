@@ -1,1 +1,4 @@
+This is a program for my data structures class. I developed an application that builds a Document Object Model (DOM) 
+for a given HTML file, and then, based on user input, modify and transform the DOM tree. 
 
+Please read the attached PDF for more info on this project. 
